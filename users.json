@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "kelas": "XI.4",
+    "jumlah_siswa": 39,
+    "updated": "2026-08-17T08:18:07.783Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549529,
+      "nama": "ADZKIA RAMADHINIE",
+      "nohp": "083825993073",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549530,
+      "nama": "AHMAD FADHIL ALRIZKI",
+      "nohp": "081363479772",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549531,
+      "nama": "AIDAL AKBAR",
+      "nohp": "081372088740",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549532,
+      "nama": "ANGGRAINI PUTRI",
+      "nohp": "08116600569",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549533,
+      "nama": "ARCHIE MIKAIL DEMITRI",
+      "nohp": "085213852488",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549535,
+      "nama": "ARIFAL PRASETYA",
+      "nohp": "081266309485",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549536,
+      "nama": "ARVIS ZHAFRAN MAULANA",
+      "nohp": "082172596450",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549537,
+      "nama": "ATHAYA NOVINO SHABHI",
+      "nohp": "081363295258",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549538,
+      "nama": "ATHIF MAULANA VALIANT",
+      "nohp": "085263907281",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549539,
+      "nama": "AURELIA ZAVIRAH",
+      "nohp": "082388558494",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549540,
+      "nama": "CHIARA HARADA FERISCA",
+      "nohp": "081374641064",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549541,
+      "nama": "CHIKA CHARIZYA",
+      "nohp": "081372223029",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549542,
+      "nama": "FANESSA REZKI",
+      "nohp": "-",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549543,
+      "nama": "IBNU FARHAN PRAKARSA",
+      "nohp": "082174146666",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549544,
+      "nama": "IZATUN NAFSIAH",
+      "nohp": "082140698357",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549545,
+      "nama": "JIHAN ZELDA SYAHFITRI",
+      "nohp": "082387299504",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549546,
+      "nama": "KEYSHA PUTRI AYUNDO",
+      "nohp": "083181121907",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549547,
+      "nama": "MARSHA DWI ARIANTY",
+      "nohp": "083169140340",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549548,
+      "nama": "MARWAH",
+      "nohp": "085274439301",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549549,
+      "nama": "MUHAMMAD ALZIKRI PUTRA HIRDA",
+      "nohp": "082385030810",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549550,
+      "nama": "MUHAMMAD ARIO YUSUF PRATAMA",
+      "nohp": "081378345614",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549551,
+      "nama": "MUHAMMAD FADHIL HANAFI",
+      "nohp": "089531609875",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549552,
+      "nama": "MUHAMMAD FARDHAN ALKHATIRI",
+      "nohp": "082244445890",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549554,
+      "nama": "MUHAMMAD FARHAN",
+      "nohp": "081270315601",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549555,
+      "nama": "MUHAMMAD RICHI ARKA PRATAMA",
+      "nohp": "085213600721",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549556,
+      "nama": "MUTIARA DWI ALYA",
+      "nohp": "081371918296",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549557,
+      "nama": "NADYA AMIRA SIREGAR",
+      "nohp": "-",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549558,
+      "nama": "NAZHIFA A. RAHATSYA",
+      "nohp": "082286080799",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549559,
+      "nama": "NAZIFA ALMAHYRA SHEZA",
+      "nohp": "081363151684",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549560,
+      "nama": "NUR AINA DALISA",
+      "nohp": "083167876710",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549561,
+      "nama": "RAFFA 'AINIL WIRMAN",
+      "nohp": "085376467980",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549562,
+      "nama": "SAVAIRA NADINE PUTRI",
+      "nohp": "081267725402",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549563,
+      "nama": "SHANDY CITRA RAMADHANI",
+      "nohp": "08117698523",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549564,
+      "nama": "SYAHID SUFI",
+      "nohp": "-",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549565,
+      "nama": "SYAUQINA AINSINQAF",
+      "nohp": "081374688603",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549566,
+      "nama": "THIRZA NIZAM KENZIE",
+      "nohp": "082268118010",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549567,
+      "nama": "VHAMEL ERLANGGA MAYRETTA",
+      "nohp": "082391553323",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549568,
+      "nama": "VIVIA ANANDA PUTRI",
+      "nohp": "083190287505",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1786954549569,
+      "nama": "ZIVANNA KENZIE",
+      "nohp": "082172778130",
+      "kelas": "XI.4"
+    }
+  ]
+}
