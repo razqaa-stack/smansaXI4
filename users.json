@@ -144,7 +144,13 @@
     {
       "id": 1787477980523,
       "nama": "MUHAMMAD FARHAN",
-      "nohp": "000000000",
+      "nohp": "0098073338",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1787846233233,
+      "nama": "MUHAMMAD FARHAN.",
+      "nohp": "00000000",
       "kelas": "XI.4"
     },
     {
@@ -240,8 +246,8 @@
   ],
   "metadata": {
     "kelas": "XI.4",
-    "jumlah_siswa": 39,
-    "updated": "2026-08-27T15:56:03.388Z"
+    "jumlah_siswa": 40,
+    "updated": "2026-08-27T15:57:14.722Z"
   },
   "siswa": [
     {
@@ -385,7 +391,13 @@
     {
       "id": 1787477980523,
       "nama": "MUHAMMAD FARHAN",
-      "nohp": "000000000",
+      "nohp": "0098073338",
+      "kelas": "XI.4"
+    },
+    {
+      "id": 1787846233233,
+      "nama": "MUHAMMAD FARHAN.",
+      "nohp": "00000000",
       "kelas": "XI.4"
     },
     {
