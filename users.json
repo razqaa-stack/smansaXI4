@@ -150,7 +150,7 @@
     {
       "id": 1787846233233,
       "nama": "MUHAMMAD FARHAN",
-      "nohp": "00000000",
+      "nohp": "NISN-KOSONG",
       "kelas": "XI.4"
     },
     {
@@ -247,7 +247,7 @@
   "metadata": {
     "kelas": "XI.4",
     "jumlah_siswa": 40,
-    "updated": "2026-08-27T16:02:28.881Z"
+    "updated": "2026-08-27T16:02:38.545Z"
   },
   "siswa": [
     {
@@ -397,7 +397,7 @@
     {
       "id": 1787846233233,
       "nama": "MUHAMMAD FARHAN",
-      "nohp": "00000000",
+      "nohp": "NISN-KOSONG",
       "kelas": "XI.4"
     },
     {
